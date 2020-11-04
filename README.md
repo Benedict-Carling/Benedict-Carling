@@ -1,5 +1,3 @@
-### Hi there, Im Benedict 👋
-
 [![Benedict's github stats](https://github-readme-stats.vercel.app/api?username=Benedict-Carling)](https://github.com/Benedict-Carling)
 
 <!--
